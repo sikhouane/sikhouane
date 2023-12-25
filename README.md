@@ -1,4 +1,4 @@
-## Hi I'm Sanaa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Sansa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 🚀 Check out my [portfolio](https://sikhouane.github.io/portfolio/) 
 
@@ -9,9 +9,9 @@
 
 ### About me
 
-- 🔭 My name's Sanaa
+- 🔭 My name's Sansa
 - :computer: I'm a Full-Stack Developer and CS student.
-- ⚡ I like : games, code, gym and memes
+- ⚡ I like : programming, gaming, gym and memes
 
 
 #### Technologies
