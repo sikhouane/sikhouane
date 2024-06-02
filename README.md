@@ -40,24 +40,14 @@
 <br />
 <br />
 
-#### Github Stats
-
-![Sanaa's github stats](https://github-readme-stats.vercel.app/api?username=sikhouane&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ### Currently working on :
 
 - Social media app on React
 - E-commerce app on React
+- Projet annuel
 
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
 
 #### Github Stats
