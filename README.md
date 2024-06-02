@@ -62,7 +62,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Sansa's github stats](https://github-readme-stats.vercel.app/api?username=sikhouane&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
