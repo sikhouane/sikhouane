@@ -27,8 +27,7 @@
 ### Currently working on :
 
 - Social media app on React
-- E-commerce app on React
-- Projet annuel
+- Kaggle competition : https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use
 
 
 
