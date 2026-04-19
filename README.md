@@ -10,7 +10,7 @@
 ### About me
 
 - 🔭 My name's Sansa
-- :computer: I'm a Full-Stack Developer and CS student.
+- :computer: I'm a Data Engineer
 - ⚡ I like : programming, gaming, gym and memes
 
 
